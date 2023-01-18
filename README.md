@@ -13,7 +13,7 @@ Ping Pong Game made for Game Programming Lessons
 ### Oyunumuz grup arkadaşım Mustafa Erhan Portakal ile kollektif bir şekilde programlanmıştır.
 ### Çabaları için kendisine teşekkür ederim.
 
-### Katkıda bulunduğum ve geliştirdiğim kısımlar: Proje tasarımlarını, müzikleri, scenechange. Cs dontdestroy. Cs
+### Katkıda bulunduğum ve geliştirdiğim kısımlar: Proje tasarımları, müzikler, scenechange. Cs dontdestroy. Cs
 ### Diğer kısımlar ise grup arkadaşım Mustafa tarafından geliştirilmiştir.
 
 ## Oyunumuzun simmer.io platformuna yüklenmiş linki aşağıda bulunmaktadır.
